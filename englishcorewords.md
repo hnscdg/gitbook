@@ -78,13 +78,33 @@
 
 #### 餐饮类
 
+| meal | breakfast | lunch | dinner |
+| :--- | :--- | :--- | :--- |
+
+
 #### 蔬菜类
+
+| vegetable | potato | tomato | carrot | lettuce | bean |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
 
 #### 水果类
 
+| fruit | apple | orange | banana |
+| :--- | :--- | :--- | :--- |
+
+
 #### 食材类
 
+| ingredient | oil | sugar | salt | butter | cream |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+
 #### 饮料类
+
+| drink | coffee | milk | tea | juice | beer |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| wine | alcohol |  |  |  |  |
 
 
 
