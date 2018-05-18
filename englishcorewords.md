@@ -2,7 +2,7 @@
 
 ## 有关物的名词
 
-####   时间类
+#### 时间类
 
 | time | morning | afternoon | noom | evening | night |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -40,89 +40,38 @@
 
 #### 昆虫类
 
-
-
+| insect | bee | butterfly | spider |
+| :--- | :--- | :--- | :--- |
 
 
 #### 其他生物
 
+| bacteria |
+| :--- |
 
 
 #### 地点类
 
-
+| place | hospital | restaurant | hotel | university | factory |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| jail | zoo | park | school | store | club |
+| bar | court | market | town | village | city |
 
 #### 机构类
 
-
-
-
-
 #### 声音类
 
+#### 食品类
 
+#### 餐饮类
 
+#### 蔬菜类
 
+#### 水果类
 
-食品类
+#### 食材类
 
-
-
-
-
-餐饮类
-
-
-
-
-
-
-
-蔬菜类
-
-
-
-
-
-水果类
-
-
-
-
-
-食材类
-
-
-
-饮料类
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### 饮料类
 
 
 
