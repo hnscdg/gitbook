@@ -6,8 +6,6 @@
 
 ###### website: [https://ones.ai/wiki/\#/team/Wunpniep/space/Dm6YxXT8/page/L9kHHM7U](https://ones.ai/wiki/#/team/Wunpniep/space/Dm6YxXT8/page/L9kHHM7U "ones.ai/hnscdg")
 
-
-
 | Day | Time | Duration | Subject | Remark |
 | :--- | :--- | :--- | :--- | :--- |
 | Monday | \*\* min | time - time | what subject | - |
