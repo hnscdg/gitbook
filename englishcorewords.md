@@ -59,9 +59,22 @@
 
 #### 机构类
 
-#### 声音类
+| organization | company | charity |
+| :--- | :--- | :--- |
+
 
 #### 食品类
+
+| food | egg | meat | steak | bread | cake |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| dessert | soup | sandwich | noodle | pie | chocolate |
+| saurce |  |  |  |  |  |
+
+#### 声音类
+
+| sound | voice | noise | music |
+| :--- | :--- | :--- | :--- |
+
 
 #### 餐饮类
 
