@@ -10,9 +10,9 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Monday | \*\* min | time - time | what subject | - | DONE |
 | Tuesday | \*\* min | time - time | what subject | - | NO |
-| Wednesday | \*\* min | time - time | what subject | anything else to say | DOEN |
-| Thursday | \*\* min | time - time | what subject | anything else to say | NO |
-| Friday | \*\* min | time - time | what subject | anything else to say | NO |
+| Wednesday | \*\* min | time - time | what subject | anything else  | DOEN |
+| Thursday | \*\* min | time - time | what subject | anything else | NO |
+| Friday | \*\* min | time - time | what subject | anything else | NO |
 
 
 
