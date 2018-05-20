@@ -6,5 +6,5 @@
   * [javasub](javascript/javasub.md)
 * [English](english.md)
   * [CoreWords](english/corewords.md)
-  * [Keyboard name](english/keyboard-name.md)
+  * [KeyboardName](english/keyboard-name.md)
 
