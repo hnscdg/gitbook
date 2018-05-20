@@ -7,29 +7,28 @@
 | \# | pound or number sign or sharp or hash or Octothorpe |
 | $ | Dollar sign |
 | % | percent |
-| ^ | carat |
-| & | ampersan or and |
-| \* | asterisk |
+| ^ | Caret |
+| & | ampersan or and or Epershand |
+| \* | asterisk or star |
 | \(\) | parenthesis |
-| - | minus or hyphen |
+| - | minus or hyphen or Dash |
 | \_ | underscore |
-| {} | braces or curly braces |
-| \[\] | brackets |
-| \ | back slash |
-| \| | pipe or bar |
+| { | Open Brace, curly bracket |
+| } | close brace  |
+| \[ | Open bracket |
+| \] | Closed bracket |
+| \ | back slash or reverse solidus |
+| \| | pipe or vertical bar |
 | : | colon |
 | ; | semi-colon |
-| ' | apostrophe or single quote |
-| '' | quote |
+| ' ' | apostrophe or single quote |
+| '' " | quote |
 | ? | question mark |
-| / | slash or forward slash |
+| / | forward slash |
 | &lt; | less than |
 | &gt; | greater than |
-| . | period  dot or full stop |
+| . | period or  dot or full stop |
 | , | comma |
-| { | open brace |
-| \[ | open bracket |
-| \( | open parenthesis |
 
 
 
