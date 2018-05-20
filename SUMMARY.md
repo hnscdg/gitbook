@@ -7,4 +7,5 @@
 * [EnglishCoreWords](englishcorewords.md)
 * [English](english.md)
   * [CoreWords](english/corewords.md)
+  * [Keyboard name](english/keyboard-name.md)
 
