@@ -10,9 +10,34 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Monday | \*\* min | time - time | what subject | - | DONE |
 | Tuesday | \*\* min | time - time | what subject | - | NO |
-| Wednesday | \*\* min | time - time | what subject | anything else  | DOEN |
+| Wednesday | \*\* min | time - time | what subject | anything else | DOEN |
 | Thursday | \*\* min | time - time | what subject | anything else | NO |
 | Friday | \*\* min | time - time | what subject | anything else | NO |
+
+
+
+#### Task
+
+1. Find a way to slove the prblem..
+
+> * what is the problem
+> * divide the problem into serveral parts which i can do that in serveral hours
+
+    2.  Solve the problem
+
+> * solve the first step of the problem
+> * solve the second stop of the problem
+> * ...
+
+     ....
+
+    n. other works
+
+
+
+##### Divide the problem into smallest parts which i can solve it in serveral hours or minutes
+
+
 
 
 
