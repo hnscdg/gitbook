@@ -1,9 +1,11 @@
 | Symbol | Name |
 | :--- | :--- |
+| ~ | Tilde |
+| \` | Acute, Back quote, Grave, left quote |
 | ! | exclamation mark |
-| @ | at |
-| \# | pound or number sign or sharp or hash |
-| $ | dollar |
+| @ | Ampersat, Arobase, or At |
+| \# | pound or number sign or sharp or hash or Octothorpe |
+| $ | Dollar sign |
 | % | percent |
 | ^ | carat |
 | & | ampersan or and |
@@ -25,8 +27,6 @@
 | &gt; | greater than |
 | . | period  dot or full stop |
 | , | comma |
-| \` |  |
-| ~ | tilde |
 | { | open brace |
 | \[ | open bracket |
 | \( | open parenthesis |
