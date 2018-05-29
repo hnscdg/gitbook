@@ -124,13 +124,3 @@ console.log(Obj.getPrototypeOf(stu));
 
 
 
-
-
-
-
-
-
-
-
-
-
