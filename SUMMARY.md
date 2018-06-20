@@ -11,4 +11,9 @@
 * [DesignPrinciple](designprinciple.md)
 * Browser
   * [Chrome](chrome.md)
+* [C\#](c.md)
+* [Problem & Solve](problem-and-solve.md)
+  * [Javascript](problem-and-solve/javascript.md)
+  * [C\#](problem-and-solve/c.md)
+  * SQL
 
