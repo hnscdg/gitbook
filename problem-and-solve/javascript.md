@@ -3,7 +3,7 @@
 * [ ] clouse
 * [ ] scope chain
 * [ ] object and function
-* [ ] angularjs $scope
+* [ ] angularjs $scope $apply
 
 
 
