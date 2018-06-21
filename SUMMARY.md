@@ -12,6 +12,7 @@
 * Browser
   * [Chrome](chrome.md)
 * [C\#](c.md)
+  * [is and as](c/is-and-as.md)
 * [Problem & Solve](problem-and-solve.md)
   * [Javascript](problem-and-solve/javascript.md)
   * [C\#](problem-and-solve/c.md)
