@@ -36,7 +36,7 @@ Test,  worked!
 
 
 ## how to use markdown
-[how to user markdown]https://guides.github.com/features/mastering-markdown/
+[how to user markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 
