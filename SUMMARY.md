@@ -5,6 +5,7 @@
 * [JavaScript](javascript.md)
   * [scope\_chain](javascript/javasub.md)
   * [prototype](javascript/prototype.md)
+  * [js brain image](javascript/js-brain-image.md)
 * [English](english.md)
   * [CoreWords](english/corewords.md)
   * [KeyboardName](english/keyboard-name.md)
