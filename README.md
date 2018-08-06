@@ -10,11 +10,34 @@ This book is used to show my thoughts about coder experience
 
 Refresh the hosts
 
-> ipconfig /flushdns     \#清除DNS缓存内容。
+> ipconfig /flushdns     \#清除DNS缓存内容。
 >
-> ipconfig /displaydns    //显示DNS缓存内容
-
-
+> ipconfig /displaydns    //显示DNS缓存内容
 
 Test,  worked!
+
+
+
+## docker configuration
+
+使用vi修改 /etc/docker/daemon.json 文件并添加上”registry-mirrors”: \[“
+
+[https://registry.docker-cn.com](https://registry.docker-cn.com/)
+
+“\]，如下：
+
+> vi /etc/docker/daemon.json
+>
+> {
+>
+> “registry-mirrors”: \[‘[https://registry.docker-cn.com](https://registry.docker-cn.com/)’\]
+>
+> }
+
+
+## how to use markdown
+[how to user markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+
 
