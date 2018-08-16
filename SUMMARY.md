@@ -9,6 +9,7 @@
 * [English](english.md)
   * [CoreWords](english/corewords.md)
   * [KeyboardName](english/keyboard-name.md)
+  * [punctuation](english/punctuation.md)
 * [DesignPrinciple](designprinciple.md)
 * Browser
   * [Chrome](chrome.md)
