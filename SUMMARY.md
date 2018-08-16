@@ -9,6 +9,7 @@
 * [English](english.md)
   * [CoreWords](english/corewords.md)
   * [KeyboardName](english/keyboard-name.md)
+  * [punctuation](english/punctuation.md)
 * [DesignPrinciple](designprinciple.md)
 * Browser
   * [Chrome](chrome.md)
@@ -20,6 +21,4 @@
   * SQL
 * [GIT](git.md)
 * [Docker](docker.md)
-* [CSS](css.md)
-  * [block and inline](css/block-and-inline.md)
 
