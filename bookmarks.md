@@ -4,6 +4,8 @@
 
 * [http://www.admin10000.com/](http://www.admin10000.com/ "admin10000")
 
+* [https://funteas.com/](https://funteas.com/ "前端日刊")
+
 ## Javascript
 
 * [https://wangdoc.com/javascript/index.html](https://wangdoc.com/javascript/index.html "Javascript 教程-网道")
