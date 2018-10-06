@@ -10,6 +10,8 @@
 
 * [https://wangdoc.com/javascript/index.html](https://wangdoc.com/javascript/index.html "Javascript 教程-网道")
 * [https://segmentfault.com/a/1190000007899742](https://segmentfault.com/a/1190000007899742 "JavaScript设计模式读后感")
+* [https://funteas.com/topic/5ac85cbf7be5304e6850cfa4](https://funteas.com/topic/5ac85cbf7be5304e6850cfa4)
+* [https://funteas.com/topic/5ac7626f7be5304e6850cf92](https://funteas.com/topic/5ac7626f7be5304e6850cf92)
 
 # 后台开发知识汇总
 
