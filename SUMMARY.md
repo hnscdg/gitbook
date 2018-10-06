@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [BookMarks](bookmarks.md)
 * [TimeLine](timeline-model.md)
 * [JavaScript](javascript.md)
   * [scope\_chain](javascript/javasub.md)
@@ -20,6 +21,4 @@
   * [C\#](problem-and-solve/c.md)
   * SQL
 * [GIT](git.md)
-* [Docker](docker.md)
-* [BookMarks](bookmarks.md)
 
