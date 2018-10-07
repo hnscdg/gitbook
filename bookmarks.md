@@ -1,5 +1,19 @@
 # bookmarks
 
+## 学习网址汇总
+
+- [伯乐在线](http://blog.jobbole.com/)
+
+- [web前端 伯乐在线](http://web.jobbole.com/)
+
+- [前端网](https://www.qdfuns.com/)
+
+- [ABP官方文档](https://aspnetboilerplate.com/Pages/Documents)
+
+- [Angular](https://angular.io/docs)
+
+- [Typescript](https://www.typescriptlang.org/docs/home.html)
+
 ## 前端开发汇总
 
 ### JavaScript
@@ -20,6 +34,8 @@
 
 - [JavaScript 彻底理解同步异步和事件循环](https://segmentfault.com/a/1190000004322358)
 
+- [史上最详细的JavaScript事件使用指南](http://www.codeceo.com/article/javascript-event-guide.html)
+
 #### Angularjs
 
 - [Angularjs 面面观之依赖注入](https://blog.csdn.net/dm_vincent/article/details/52195736)
@@ -37,6 +53,14 @@
 - [从零开始学nodejs系列教程](http://blog.fens.me/series-nodejs/)
 
 - [nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/)
+
+- [nodeschool](https://nodeschool.io/)
+
+- [Node.js Tutorial – Step-by-Step Guide For Getting Started](https://www.airpair.com/javascript/node-js-tutorial)
+
+#### JQuery
+
+- [jQuery源码解析](http://www.imooc.com/learn/172)
 
 ### CSS
 
@@ -77,6 +101,12 @@
 - [Code First 开发系列之管理并发和事务](http://www.cnblogs.com/farb/p/ConcurrencyAndTransctionManagement.html)
 
 - [OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+- [.net操作进程](https://www.cnblogs.com/changrulin/p/4775053.html)
+
+- [Getting Started with Entity Framework 6 Code First using MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application)
+
+- [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1)
 
 ## 数据库开发汇总
 
@@ -146,6 +176,12 @@
 
 - [40 important HTML 5 Interview questions with answers](https://www.codeproject.com/articles/702051/important-html-interview-questions-with-ansew)
 
+- [37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
+
+## 知识体系汇总
+
+- [github上最全的资源教程-前端涉及的所有知识体系](https://www.cnblogs.com/bymax/p/5878113.html)
+
 ## 快捷键汇总
 
 - [Visaul Studio Code常用的快捷键](https://lzw.me/a/vscode-visual-studio-code-shortcut.html)
@@ -153,3 +189,9 @@
 ## git
 
 - [Git checkout command](http://www.cnblogs.com/hutaoer/archive/2013/05/07/git_checkout.html)
+
+- [Git基本命令和GitFlow工作流](https://www.cnblogs.com/myqianlan/p/4195994.html)
+
+## docker
+
+- [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
