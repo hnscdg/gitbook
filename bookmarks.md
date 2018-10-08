@@ -18,6 +18,8 @@
 
 - [npm package.json配置](https://docs.npmjs.com/files/package.json)
 
+- [webpack configuration](https://webpack.js.org/configuration/)
+
 ## 前端开发汇总
 
 ### JavaScript
