@@ -1,32 +1,4 @@
-<!-- TOC -->
-
-- [bookmarks](#bookmarks)
-    - [学习网址汇总](#学习网址汇总)
-    - [前端开发汇总](#前端开发汇总)
-        - [JavaScript](#javascript)
-            - [ECMASCript(ES)](#ecmascriptes)
-            - [Angularjs](#angularjs)
-            - [Angular](#angular)
-            - [Nodejs](#nodejs)
-            - [JQuery](#jquery)
-        - [CSS](#css)
-        - [HTML](#html)
-    - [后台开发汇总(C#)](#后台开发汇总c)
-    - [数据库开发汇总](#数据库开发汇总)
-        - [MySQL](#mysql)
-        - [SQLServer](#sqlserver)
-    - [ABP](#abp)
-    - [其他](#其他)
-    - [架构和设计模式](#架构和设计模式)
-    - [面试](#面试)
-    - [知识体系汇总](#知识体系汇总)
-    - [快捷键汇总](#快捷键汇总)
-    - [git](#git)
-    - [docker](#docker)
-
-<!-- /TOC -->
-
-# bookmarks
+# 网址汇总
 
 ## 学习网址汇总
 
@@ -41,6 +13,10 @@
 - [Angular](https://angular.io/docs)
 
 - [Typescript](https://www.typescriptlang.org/docs/home.html)
+
+## 官方手册
+
+- [npm package.json配置](https://docs.npmjs.com/files/package.json)
 
 ## 前端开发汇总
 
