@@ -1,0 +1,1 @@
+![defer and async](/assets/defer-and-async.jpeg)
