@@ -1,4 +1,4 @@
-# usual problem
+# MEMORANDUM
 
 ## git clone soooooooso slow
 
@@ -67,6 +67,3 @@ n. other works
 ```
 
 #### Divide the problem into smallest parts which i can solve it in serveral hours or minutes
-
-
-
