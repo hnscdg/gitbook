@@ -1,4 +1,4 @@
-Table and windows shortcuts
+# Table and windows shortcuts in Chrome
 
 | shortcut | meaning |
 | :--- | :--- |
@@ -10,7 +10,7 @@ Table and windows shortcuts
 | Alt + left arrow | Goes to the previous page in your browsing history for the tab |
 | Alt + right arrow | Goes to the next page in your browsing history for the tab |
 
-Google chrome features shortcuts
+## Google chrome features shortcuts
 
 | shortcut | meaning |
 | :--- | :--- |
@@ -23,6 +23,3 @@ Google chrome features shortcuts
 | Ctrl + Shift + Delete | Opens the clear Browsing Data Dailog |
 | Ctrl + Enter | Add www. and .com to your input in the address bar |
 | Ctrl + K or Ctrl + E | Place a ? in the address bar, then enter |
-
-
-
