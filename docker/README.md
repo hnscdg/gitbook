@@ -49,8 +49,3 @@
 
 * info
 * version
-
-
-
-
-
