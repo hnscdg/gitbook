@@ -1,1 +1,2 @@
-[SQL](SQL.md)
+[database/SQL.md](/database/SQL.md "SQL")
+
