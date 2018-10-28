@@ -93,7 +93,9 @@ SQL 中最重要的 DDL 语句:
 	- SELECT SUM(COLUMN_NAME) FROM TABLE_NAME WHERE CONDITION;
 13. LIKE
 	> % The precent sign represents zero, one, or multiple charaters
+	
 	> _ The underscore represents a single character
+
 	- SELECT COLUMN1, COLUMN2, ... FROM TABLE_NAME WHERE COLUMNN LIKE PATTERN;
 14. IN
 	- SELECT COLUMN_NAME(S) FROM TABLE_NAME WHERE COLUMN_NAME IN (VALUE1, VALUE2, ...);
