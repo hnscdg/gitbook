@@ -12,5 +12,4 @@
 * [DATABASE](database/README.md)
 * [CSS](css/README.md)
 * [CHROME](chrome/README.md)
-* README.md
 
