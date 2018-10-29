@@ -19,7 +19,6 @@
 * [Memo](memo/README.md)
 * [Bookmarks](bookmarks/README.md)
 * [ES6](es6/README.md)
-
     1. [ECMAScript 6简介](intro.md)
     1. [let 和 const 命令](let.md)
     1. 变量的解构赋值
@@ -46,7 +45,6 @@
     1. 编程风格
     1. 读懂规格
     1. ArrayBuffer
-
 * [Nodejs](nodejs/README.md)
 * [Javascript](javascript/README.md)
 * [English](english/README.md)
