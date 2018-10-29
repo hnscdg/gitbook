@@ -201,3 +201,11 @@
 ## docker
 
 - [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
+
+## 整理书签汇总
+
+### HTTP
+
+- [HTTP缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)
+
+- [How To Optimize Your Site With HTTP Caching](https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/)
