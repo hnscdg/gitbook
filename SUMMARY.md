@@ -13,4 +13,5 @@
   * [SQL Statement](database/SQL.md)
 * [CSS](css/README.md)
 * [Http](http/httpStatus.md)
+* [Emoji](emoji/emoji.md)
 * [Chrome](chrome/README.md)
