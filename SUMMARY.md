@@ -4,13 +4,13 @@
 * [Memo](memo/README.md)
 * [Bookmarks](bookmarks/README.md)
 * [ES6](es6/README.md)
-    1. [ECMAScript 6简介](intro.md)
-    1. [let 和 const 命令](let.md)
+    1. [ECMAScript 6简介](es6/intro.md)
+    1. [let 和 const 命令](es6/let.md)
     1. 变量的解构赋值
     1. 字符串的扩展
     1. 正则的扩展
     1. 数值的扩展
-    1. [函数的扩展](function.md)
+    1. [函数的扩展](es6/function.md)
     1. 数组的扩展
     1. 对象的扩展
     1. Symbol
@@ -22,11 +22,11 @@
     1. Generator 函数的语法
     1. Generator 函数的异步应用
     1. async 函数
-    1. [Class 的基本语法](class.md)
-    1. [Class 的继承](class1.extends.md)
+    1. [Class 的基本语法]（es6/class.md)
+    1. [Class 的继承](es6/class-extends.md)
     1. Decorator
-    1. [Module 的语法](class.md)
-    1. [Module 的加载实现](class1.extends.md)
+    1. [Module 的语法](es6/class.md)
+    1. [Module 的加载实现](es6/class1.extends.md)
     1. 编程风格
     1. 读懂规格
     1. ArrayBuffer
