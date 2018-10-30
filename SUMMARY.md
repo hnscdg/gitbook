@@ -4,7 +4,7 @@
 * [Memo](memo/README.md)
 * [Bookmarks](bookmarks/README.md)
 * [ES6](es6/README.md)
-    1. [ECMAScript 6简介](es6/intro.md)
+    <!-- 1. [ECMAScript 6简介](es6/intro.md)
     1. [let 和 const 命令](es6/let.md)
     1. 变量的解构赋值
     1. 字符串的扩展
@@ -29,7 +29,7 @@
     1. [Module 的加载实现](es6/class1.extends.md)
     1. 编程风格
     1. 读懂规格
-    1. ArrayBuffer
+    1. ArrayBuffer -->
 * [Nodejs](nodejs/README.md)
 * [Javascript](javascript/README.md)
 * [English](english/README.md)

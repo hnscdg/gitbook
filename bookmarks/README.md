@@ -208,4 +208,8 @@
 
 - [HTTP缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)
 
+- [彻底理解浏览器缓存机制](https://www.cnblogs.com/shixiaomiao1122/p/7591556.html)
+
 - [How To Optimize Your Site With HTTP Caching](https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/)
+
+- [网站性能优化实战——从12.67s到1.06s的故事](https://zhuanlan.zhihu.com/p/35224473)
