@@ -91,15 +91,15 @@ artifactory.swdc.saurer.com:443/docker/docker/lion-user-service
     1. docker rm [NAME]/[CONTAINERID] --- 不能够删除一个正在运行的容器，会报错。需要先停止容器
     1. docker rm 'docker ps -a -q' --- -a标志列出所有容器，-q标志只列出容器的ID，然后传递给rm命令，依次删除容器(一次性删除所有容器)
 
-    |Name|Meaning|
-    |--|--|
-    |CONTAINER ID|容器的唯一表示ID|
-    |IMAGE|创建容器时使用的镜像|
-    |COMMAND|容器最后运行的命令|
-    |CREATED|创建容器的时间|
-    |STATUS|容器状态|
-    |PORTS|对外开放的端口|
-    |NAMES|容器名|
+    | Name | Meaning |
+    | --- | --- |
+    | CONTAINER ID | 容器的唯一表示ID |
+    | IMAGE | 创建容器时使用的镜像 |
+    | COMMAND | 容器最后运行的命令 |
+    | CREATED | 创建容器的时间 |
+    | STATUS | 容器状态 |
+    | PORTS | 对外开放的端口 |
+    | NAMES | 容器名 |
 
 * images
 
@@ -110,10 +110,10 @@ artifactory.swdc.saurer.com:443/docker/docker/lion-user-service
     1. docker rmi [Name]/[ID] --- 删除镜像
     1. docker rmi -f [ID] --- 强制删除镜像
 
-    |Name|Meaning|
-    |--|--|
-    |REPOSITORY|来自于哪个仓库：比如docker.io/centos|
-    |TAG|TAG的标记，比如 latest|
-    |IMAGE ID|表示镜像的id号|
-    |CREATED|创建的时间|
-    |SIZE|镜像的SIZE|
+    | Name | Meaning |
+    | --- | --- |
+    | REPOSITORY | 来自于哪个仓库：比如docker.io/centos |
+    | TAG | TAG的标记，比如 latest |
+    | IMAGE ID | 表示镜像的id号 |
+    | CREATED | 创建的时间 |
+    | SIZE | 镜像的SIZE |
