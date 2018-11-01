@@ -8,10 +8,10 @@ SQL (结构化查询语言)是用于执行查询的语法。但是 SQL 语言也
 
 查询和更新指令构成了 SQL 的 DML 部分：
 
-* SELECT - 从数据库表中获取数据
-* UPDATE - 更新数据库表中的数据
-* DELETE - 从数据库表中删除数据
-* INSERT INTO - 向数据库表中插入数据
+* select - 从数据库表中获取数据
+* update - 更新数据库表中的数据
+* delete - 从数据库表中删除数据
+* insert into - 向数据库表中插入数据
 
 ## DDL
 
@@ -19,13 +19,13 @@ SQL 的数据定义语言 (DDL) 部分使我们有能力创建或删除表格。
 
 SQL 中最重要的 DDL 语句:
 
-* CREATE DATABASE - 创建新数据库
-* ALTER DATABASE - 修改数据库
-* CREATE TABLE - 创建新表
-* ALTER TABLE - 变更（改变）数据库表
-* DROP TABLE - 删除表
-* CREATE INDEX - 创建索引（搜索键）
-* DROP INDEX - 删除索引
+* create database - 创建新数据库
+* alter database - 修改数据库
+* create table - 创建新表
+* alter table - 变更（改变）数据库表
+* drop table - 删除表
+* create index - 创建索引（搜索键）
+* drop index - 删除索引
 
 ## [database operation](https://www.w3schools.com/sql/default.asp)
 
@@ -56,68 +56,68 @@ SQL 中最重要的 DDL 语句:
 	* alter column
 		> alter table table_name alter column column_name datatype;
 
-## SQL STATEMENT
+## SQL statement
 
-1. SELECT
-	- SELECT CLOUMN1, COLUMN2, ... FROM TABEL_NAME;
-	- SELECT * FROM TABLE_NAME
-2. SELECT DISTINCT
-	- SELECT DISTINCT COLUMN1,COLUMN2, ... FROM TABLE_NAME;
-3. SELECT TOP
-	- SELECT TOP NUMBER|PERCENT COLUMN_NAME(S) FROM TABLE_NAME WHERE CONDITION;
-4. MIN() ADN MAX()
-	- SELECT MIN(COLUMN_NAME) FROM TABLE_NAME WHERE CONDITION;
-	- SELECT MAX(COLUMN_NAME) FROM TABLE_NAME WHERE CONDITION;
-5. WHERE
-	- SELECT COLUMN1, COLUMN2, ... FROM TABLE_NAME WHERE CONDITION;
-6. AND OR NOT
-	- SELECT COLUMN1, COLUMN2, ... FROM TABLE_NAME WHERE CONDITION1 AND CONDITION2 AND CONDITION3 ...;
-	- SELECT COLUMN1, COLUMN2, ... FROM TABLE_NAME WHERE CONDITION1 OR CONDITION2 OR CONDITION3 ...;
-	- SELECT COLUMN1, COLUMN2, ... FROM TABLE_NAME WHERE NOT CONDITION;
-7. ORDER BY
-	- SELECT COLUMN1, COLUMN2, ... FROM TABLE_NAME ORDER BY COLUMN1, COLUMN2, ... ASC|DESC;
-8. INSERT INTO
-	- INSERT INTO TABLE_NAME (COLUMN1, COLUMN2,COLUMN3, ...) VALUES(VALUE1,VALUE2,VALUE3, ...)
-	- INSERT INTO TABLE_NAME VALUES(VALUE1, VALUE2,VALUE3, ...)
-9. NULL VALUE
-	- SELECT COLUMN_NAMES FROM TABLE_NAME WHERE COLUMN_NAME IS NULL;
-	- SELECT COLUMN_NAMES FROM TABLE_NAME WHERE COLUMN_NAME IS NOT NULL;
-10. UPDATE
-	- UPDATE TABLE_NAME SET COLUMN1 = VALUE1, COLUMN2 = VALUE2, ... WHERE CONDITION;
-11. DELETE
-	- DELETE FROM TABLE_NAME WHERE CONDITION;
-	- DELETE FROM TABLE_NAME
-12. COUNT() AVG() SUM()
-	- SELECT COUNT(COLUMN_NAME) FROM TABLE_NAME WHERE CONDITION;
-	- SELECT AVG(COLUMN_NAME) FROM TABLE_NAME WHERE CONDITION;
-	- SELECT SUM(COLUMN_NAME) FROM TABLE_NAME WHERE CONDITION;
-13. LIKE
+1. select
+	- SELECT cloumn1, cloumn2, ... FROM table_name;
+	- SELECT * FROM table_name
+2. select distinct
+	- SELECT DISTINCT column1,column2, ... FROM table_name;
+3. select top
+	- SELECT TOP number|percent column_name(S) FROM table_name WHERE condition;
+4. MIN() and MAX()
+	- SELECT MIN(column_name) FROM table_name WHERE condition;
+	- SELECT MAX(column_name) FROM table_name WHERE condition;
+5. where
+	- SELECT column1, column2, ... FROM table_name WHERE condition;
+6. and or not
+	- SELECT column1, column2, ... FROM table_name WHERE condition1 AND condition2 AND condition3 ...;
+	- SELECT column1, column2, ... FROM table_name WHERE condition1 OR condition2 OR condition3 ...;
+	- SELECT column1, column2, ... FROM table_name WHERE NOT condition;
+7. order by
+	- SELECT column1, column2, ... FROM table_name ORDER BY column1, column2, ... ASC|DESC;
+8. insert into
+	- INSERT INTO table_name (column1, column2,column2, ...) values(value1,value2,value3, ...)
+	- INSERT INTO table_name values(value1, value2,value3, ...)
+9. null value
+	- SELECT column_names FROM table_name WHERE column_name IS NULL;
+	- SELECT column_names FROM table_name WHERE column_name IS NOT NULL;
+10. update
+	- UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;
+11. delete
+	- DELETE FROM table_name WHERE condition;
+	- DELETE FROM table_name
+12. count() avg() sum()
+	- SELECT COUNT(column_name) FROM table_name WHERE condition;
+	- SELECT AVG(column_name) FROM table_name WHERE condition;
+	- SELECT SUM(column_name) FROM table_name WHERE condition;
+13. like
 	> % The precent sign represents zero, one, or multiple charaters
 	
 	> _ The underscore represents a single character
 
-	- SELECT COLUMN1, COLUMN2, ... FROM TABLE_NAME WHERE COLUMNN LIKE PATTERN;
-14. IN
-	- SELECT COLUMN_NAME(S) FROM TABLE_NAME WHERE COLUMN_NAME IN (VALUE1, VALUE2, ...);
-	- SELECT COLUMN_NAME(S) FROM TABLE_NAME WHERE COLUMN_NAME IN (SELECT STATEMENT);
-15. BETWEEN
-	- SELECT COLUMN_NAME(S) FROM TABLE_NAME WHERE COLUMN_NAME BETWEEN VALUE1 AND VALUE2;
-16. ALIASES
-	- SELECT COLUMN_NAME AS ALIAS_NAME FROM TABLE_NAME;
-	- SELECT COLUMN_NAME(S) FROM TABLE_NAME AS ALIAS_NAME;
-17. INNER JOIN
-	- SELECT COLUMN_NAME(S) FROM TABLE1 INNER JOIN TABLE2 ON TABLE.COLUMN_NAME = TABLE2.COLUMN_NAME;
-18. LEFT JOIN
-	- SELECT COLUMN_NAME(S) FROM TABLE1 LEFT JOIN TABLE2 ON TABLE1.COLUMN_NAME = TABLE2.COLUMN_NAME;
-19. RIGHT JOIN
-	- SELECT COLUMN_NAME(S) FROM TABLE1 RIGHT JOIN TABLE2 ON TABLE1.COLUMN_NAME = TABLE2.COLUMN_NAME;
-20. FULL OUTER JOIN
-	- SELECT COLUMN_NAME(S) FROM TABLE1 FULL OUTER JOIN TABLE2 ON TABLE1.COLUMN_NAME = TABLE2.COLUMN_NAME;
-21. SELF JOIN
-	- SELECT COLUMN_NAME(S) FROM TABLE1 T1, TABLE2 T2 WHERE CONDITION;
-22. UNION
-	- SELECT COLUMN_NAME(S) FROM TABLE1 UNION SELECT COLUMN_NAME(S) FROM TABLE2;
-	- SELECT COLUMN_NAME(S) FROM TABLE1 UNION ALL SELECT COLUMN_NAME(S) FROM TABLE2;
+	- SELECT column1, column2, ... FROM table_name WHERE COLUMNN LIKE PATTERN;
+14. in
+	- SELECT column_name(S) FROM table_name WHERE column_name IN (value1, value2, ...);
+	- SELECT column_name(S) FROM table_name WHERE column_name IN (SELECT STATEMENT);
+15. between
+	- SELECT column_name(S) FROM table_name WHERE column_name BETWEEN value1 AND value2;
+16. aliases
+	- SELECT column_name AS ALIAS_NAME FROM table_name;
+	- SELECT column_name(S) FROM table_name AS ALIAS_NAME;
+17. inner join
+	- SELECT column_name(S) FROM table1 INNER JOIN table2 ON table.column_name = table2.column_name;
+18. left join
+	- SELECT column_name(S) FROM table1 LEFT JOIN table2 ON table1.column_name = table2.column_name;
+19. right join
+	- SELECT column_name(S) FROM table1 RIGHT JOIN table2 ON table1.column_name = table2.column_name;
+20. full outer join
+	- SELECT column_name(S) FROM table1 FULL OUTER JOIN table2 ON table1.column_name = table2.column_name;
+21. self join
+	- SELECT column_name(S) FROM table1 T1, table2 T2 WHERE condition;
+22. union
+	- SELECT column_name(S) FROM table1 UNION SELECT column_name(S) FROM table2;
+	- SELECT column_name(S) FROM table1 UNION ALL SELECT column_name(S) FROM table2;
 
 
 ``` sql
@@ -127,22 +127,22 @@ CREATE DATABASE TESTDB -- CREATE A NEW DATABASE CALLED TESTDB
 DROP DATABASE TESTDB -- DROP DATABASE NAMED TESTDB
 
 -- 数据库表操作
-CREATE TABLE STUDENTS  -- CREATE A NEW TABLE
+CREATE table STUDENTS  -- CREATE A NEW table
 (
 	ID INT,
 	FIRSTNAME VARCHAR(255),
 	LASTNAME VARCHAR(255)
 )
 
-CREATE TABLE MY_TABLE(ID INT) -- 新建数据库表
+CREATE table MY_table(ID INT) -- 新建数据库表
 
-select * from MY_TABLE -- 查找数据库表中的数据
-TRUNCATE TABLE MY_TABLE -- 清空数据库表中数据
-DROP TABLE MY_TABLE -- 删除数据库表
+select * from MY_table -- 查找数据库表中的数据
+TRUNCATE table MY_table -- 清空数据库表中数据
+DROP table MY_table -- 删除数据库表
 
-ALTER TABLE MY_TABLE ADD EMAIL VARCHAR(255) -- 为my_table重新增email列
-ALTER TABLE MY_TABLE DROP COLUMN EMAIL -- 删除my_table中的email列
-ALTER TABLE MY_TABLE ALTER COLUMN ID VARCHAR(255) -- 更改my_table中列为ID的属性，值类型改为varchar（255）
+ALTER table MY_table ADD EMAIL VARCHAR(255) -- 为my_table重新增email列
+ALTER table MY_table DROP COLUMN EMAIL -- 删除my_table中的email列
+ALTER table MY_table ALTER COLUMN ID VARCHAR(255) -- 更改my_table中列为ID的属性，值类型改为varchar（255）
 ```
 
 
