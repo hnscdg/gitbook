@@ -11,6 +11,6 @@
 * [Docker](docker/README.md)
 * [Database](database/README.md)
 * [C\#](c/README.md)
-* [Emoji](emoji/emoji.md)
+* [Emoji](https://github.com/hnscdg/gitbook/issues/1)
 * [Chrome](chrome/README.md)
 * [English](english/README.md)

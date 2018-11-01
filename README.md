@@ -1,58 +1,22 @@
 # Content
 
-<!-- * [PREFACE](README.md)
-* [MEMO](MEMO.md)
-* [BOOK MARKS](bookmarks.md)
-* ***JAVASCRIPT***
-  * [scope\_chain](javascript/javasub.md)
-  * [prototype](javascript/prototype.md)
-  * [js brain image](javascript/js-brain-image.md)
-  * [script async and defer](javascript/asyncAndDefer.md)
-* ***ENGLISH***
-  * [KeyboardName](english/keyboard-name.md)
-  * [punctuation](english/punctuation.md)
-* **_C\#_**
-  * [is and as](c/is-and-as.md)
-* [CHROME](chrome.md) -->
+:mushroom: ***Description***
 
-* [Preface](README.md)
-* [Memo](memo/README.md)
-* [Bookmarks](bookmarks/README.md)
-* [ES6](es6/README.md)
-    1. [ECMAScript 6简介](es6/intro.md)
-    1. [let 和 const 命令](es6/let.md)
-    1. 变量的解构赋值
-    1. 字符串的扩展
-    1. 正则的扩展
-    1. 数值的扩展
-    1. [函数的扩展](es6/function.md)
-    1. 数组的扩展
-    1. 对象的扩展
-    1. Symbol
-    1. Set 和 Map 数据结构
-    1. Proxy
-    1. Reflect
-    1. Promise 对象
-    1. Iterator 和 for...of 循环
-    1. Generator 函数的语法
-    1. Generator 函数的异步应用
-    1. async 函数
-    1. [Class 的基本语法](es6/class.md)
-    1. [Class 的继承](es6/class-extends.md)
-    1. Decorator
-    1. [Module 的语法](es6/class.md)
-    1. [Module 的加载实现](es6/class1.extends.md)
-    1. 编程风格
-    1. 读懂规格
-    1. ArrayBuffer
-* [Nodejs](nodejs/README.md)
-* [Javascript](javascript/README.md)
-* [English](english/README.md)
-* [C\#](c/README.md)
-* [Docker](docker/README.md)
-* [Database](database/README.md)
-  * [SQL Statement](database/SQL.md)
-* [CSS](css/README.md)
-* [Http](http/httpStatus.md)
-* [Emoji](emoji/emoji.md)
-* [Chrome](chrome/README.md)
+> This repository is used to collect the web development technology Which I thought is worth to be arranged agian. For now, I will document the following files: `preface, memo,bookmarks,es6,nodejs,javascript,english,c#,docker,database,css,http,emoji,chrome`. May be I will extend more later. In order to pratice how to use git, I will commit all my code to dev firstly, and then when condition satisfying, I will merge all the code to the master.
+
+| 名称 | 链接 |
+| --- | --- |
+| Preface | [Preface](README.md)|
+| Memo | [Memo](memo/README.md) |
+| Bookmarks | [Bookmarks](bookmarks/README.md) |
+| ES6| [ES6](es6/README.md) |
+| Nodejs | [Nodejs](nodejs/README.md) |
+| Javascript | [Javascript](javascript/README.md) |
+| English | [English](english/README.md) |
+| C# | [C\#](c/README.md) |
+| Docker | [Docker](docker/README.md) |
+| Database | [Database](database/README.md) |
+| CSS | [CSS](css/README.md) |
+| Http | [Http](http/httpStatus.md) |
+| Emoji | [Emoji](https://github.com/hnscdg/gitbook/issues/1) |
+| Chrome | [Chrome](chrome/README.md) |
