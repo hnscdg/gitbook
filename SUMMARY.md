@@ -12,5 +12,5 @@
 * [Database](database/README.md)
 * [C\#](c/README.md)
 * [Emoji](https://github.com/hnscdg/gitbook/issues/1)
-* [Chrome](chrome/README.md)
+* [Chrome](https://github.com/hnscdg/gitbook/issues/2)
 * [English](english/README.md)
