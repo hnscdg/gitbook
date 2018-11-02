@@ -2,7 +2,7 @@
 
 * [Preface](README.md)
 * [Memo](memo/README.md)
-* [Bookmarks](bookmarks/README.md)
+* [Bookmarks](https://github.com/hnscdg/gitbook/issues/3)
 * [ES6](es6/README.md)  
 * [Nodejs](nodejs/README.md)
 * [Http](http/httpStatus.md)

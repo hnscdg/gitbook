@@ -8,7 +8,7 @@
 | --- | --- |
 | Preface | [Preface](README.md)|
 | Memo | [Memo](memo/README.md) |
-| Bookmarks | [Bookmarks](bookmarks/README.md) |
+| Bookmarks | [Bookmarks](https://github.com/hnscdg/gitbook/issues/3) |
 | ES6| [ES6](es6/README.md) |
 | Nodejs | [Nodejs](nodejs/README.md) |
 | Javascript | [Javascript](javascript/README.md) |
