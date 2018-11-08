@@ -71,12 +71,14 @@ n. other works
 ## how to generate git ssh
 
 ### 首先需要检查你电脑是否已经有 SSH key 
+
 运行 git Bash 客户端，输入如下代码：
 
 ``` txt
 $ cd ~/.ssh
 $ ls
 ```
+
 这两个命令就是检查是否已经存在 id_rsa.pub 或 id_dsa.pub 文件，如果文件已经存在，那么你可以跳过步骤2，直接进入步骤3。
 
 ### 创建一个 SSH key 
@@ -84,6 +86,7 @@ $ ls
 ``` txt
 $ ssh-keygen -t rsa -C "your_email@example.com"
 ```
+
 代码参数含义：
 
 -t 指定密钥类型，默认是 rsa ，可以省略。
@@ -98,6 +101,7 @@ $ ssh-keygen -t rsa -C "your_email@example.com"
 Generating public/private rsa key pair.
 # Enter file in which to save the key (/c/Users/you/.ssh/id_rsa): [Press enter]
 ```
+
 当然，你也可以不输入文件名，使用默认文件名（推荐），那么就会生成 id_rsa 和 id_rsa.pub 两个秘钥文件。
 
 接着又会提示你输入两次密码（该密码是你push文件的时候要输入的密码，而不是github管理者的密码），
@@ -108,6 +112,7 @@ Generating public/private rsa key pair.
 Enter passphrase (empty for no passphrase): 
 # Enter same passphrase again:
 ```
+
 接下来，就会显示如下代码提示，如：
 
 ```
@@ -116,15 +121,17 @@ Your identification has been saved in /c/Users/you/.ssh/id_rsa.
 # The key fingerprint is:
 # 01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db your_email@example.com
 ```
+
 当你看到上面这段代码的收，那就说明，你的 SSH key 已经创建成功，你只需要添加到github的SSH key上就可以了。
 
 ### 添加你的 SSH key 到 github上面去
 
 - 首先你需要拷贝 id_rsa.pub 文件的内容，你可以用编辑器打开文件复制，也可以用git命令复制该文件的内容，如：
 
-``` txt
-$ clip < ~/.ssh/id_rsa.pub
-```
+    ``` txt
+    $ clip < ~/.ssh/id_rsa.pub
+    ```
+
 - 登录你的github账号，从又上角的设置（ Account Settings ）进入，然后点击菜单栏的 SSH key 进入页面添加 SSH key。
 
 - 点击 Add SSH key 按钮添加一个 SSH key。把你复制的 SSH key 代码粘贴到 key 所对应的输入框中，记得 SSH key 代码的前后不要留有空格或者回车。当然，上面的 Title 所对应的输入框你也可以输入一个该 SSH key 显示在 github 上的一个别名。默认的会使用你的邮件名称。
@@ -136,6 +143,7 @@ $ clip < ~/.ssh/id_rsa.pub
 ```txt
 $ ssh -T git@github.com
 ```
+
 当你输入以上代码时，会有一段警告代码，如：
 
 ```txt
@@ -149,6 +157,7 @@ The authenticity of host 'github.com (207.97.227.239)' can't be established.
 ```txt
 Enter passphrase for key '/c/Users/Administrator/.ssh/id_rsa':
 ```
+
 当然如果你密码输错了，会再要求你输入，知道对了为止。
 
 注意：输入密码时如果输错一个字就会不正确，使用删除键是无法更正的。
@@ -159,4 +168,17 @@ Enter passphrase for key '/c/Users/Administrator/.ssh/id_rsa':
 Hi username! You've successfully authenticated, but GitHub does not
 # provide shell access.
 ```
+
 如果用户名是正确的,你已经成功设置SSH密钥。如果你看到 “access denied” ，者表示拒绝访问，那么你就需要使用 https 去访问，而不是 SSH。
+
+```byte
+8bit(位)=1Byte(字节)
+
+1024Byte(字节)=1KB
+
+1024KB=1MB
+
+1024MB=1GB
+
+1024GB=1TB
+```
