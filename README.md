@@ -2,7 +2,7 @@
 
 :mushroom: ***Description***
 
-> This repository is used to collect the web development technology Which I thought is worth to be arranged agian. For now, I will document the following files: preface, memo, bookmarks, es6, nodejs, javascript, english, c#, docker, database, css, http, emoji, chrome. May be I will extend more later. In order to pratice how to use git, I will commit all my code to dev firstly, and then when condition satisfying, I will merge all the code to the master.
+> This repository is used to collect the web development technology Which I thought is worth to be arranged agian.
 
 | 名称 | 链接 |
 | --- | --- |
