@@ -1,54 +1,39 @@
 # Docker command line
 
-## 容器生命周期管理
+## These Docker commands are essential
 
-* run
-* start/stop/restart
-* kill
-* rm
-* pause/unpause
-* create
-* exec
+* [docker build](https://docs.docker.com/engine/reference/commandline/build/)
 
-## 容器容器操作
+* [docker run](https://docs.docker.com/engine/reference/commandline/run/)
 
-* ps
-* inspect
-* top
-* attach
-* events
-* logs
-* wait
-* export
-* port
+* [docker ps](https://docs.docker.com/engine/reference/commandline/ps/)
 
-## 容器rootfs命令
+* [docker stop](https://docs.docker.com/engine/reference/commandline/stop/)
 
-* commit
-* cp
-* diff
+* [docker rm](https://docs.docker.com/engine/reference/commandline/rm/)
 
-## 镜像仓库
+* [docker rmi](https://docs.docker.com/engine/reference/commandline/rmi/)
 
-* login
-* pull
-* push
-* search
+* [docker image](https://docs.docker.com/engine/reference/commandline/image/)
 
-## 本地镜像管理
-
-* images
-* rmi
-* tag
-* build
-* history
-* save
-* import
-
-## info \| version
-
-* info
-* version
+| repository hub | local repository | contaier                  | rootfs        | info           |
+| -------------- | ---------------- | ------------------------- | ------------- | -------------- |
+| docker login   | docker images    | docker ps                 | docker commit | docker info    |
+| docker pull    | docker rmi       | docker inspect            | docker cp     | docker version |
+| docker push    | docker tag       | docker top                | docker diff   |
+| docker search  | docker build     | docker attach             |
+|                | docker history   | docker events             |               |
+|                | docker import    | docker logs               |
+|                | docker save      | docker wait               |               |
+|                |                  | docker start/stop/restart |
+|                |                  | docker exec               |
+|                |                  | docker run                |
+|                |                  | docker pause/unpause      |
+|                |                  | docker rm                 |
+|                |                  | docker kill               |
+|                |                  | docker create             |
+|                |                  | docker port               |
+|                |                  | docker export             |
 
 ## artifactory下拉取镜像
 
