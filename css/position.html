@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+        #test{
+            height:300px;
+            width:300px;
+            background-color: grey;
+        }
+        .p1{
+            height: 100px;
+            width: 100px;
+            background-color: aquamarine;
+            position: relative;
+            left: 20px;
+            top: 20px;
+        }
+        .p2{
+            height: 100px;
+            width: 100px;
+            background-color: blueviolet;
+        }
+        #test2{
+            height: 300px;
+            width: 300px;
+            background: pink;
+            position: relative;
+        }
+        .p3{
+            height: 100px;
+            width: 100px;
+            background: green;
+            position: absolute;
+            left: 30px;
+            top: 30px;
+        }
+
+        .p4{
+            height: 90px;
+            width: 90px;
+            background: gold;
+        }
+
+    </style>
+
+</head>
+<body>
+    
+    <div id="test">
+        <div class="p1">相对定位：相对于自己原来的位置，偏移一些距离</div>
+        <div class="p2">相对定位,相对的是自己</div>
+    </div>
+
+    <div id="test2">
+            <div class="p3">绝对定位：相对于自己父元素的位置，偏移一些距离</div>
+            <div class="p4">绝对定位,相对的是父元素</div>    </div>
+
+</body>
+</html>
