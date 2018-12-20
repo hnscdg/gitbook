@@ -75,6 +75,9 @@ artifactory.swdc.saurer.com:443/docker/docker/lion-user-service
     1. docker kill [NAME]/[CONTAINERID] --- 强制停止一个容器
     1. docker rm [NAME]/[CONTAINERID] --- 不能够删除一个正在运行的容器，会报错。需要先停止容器
     1. docker rm 'docker ps -a -q' --- -a标志列出所有容器，-q标志只列出容器的ID，然后传递给rm命令，依次删除容器(一次性删除所有容器)
+    1. docker stop $(docker ps -q) -- 停止所有运行中的容器
+    1. docker rm $(docker ps -aq) -- 删除所有容器
+    1. docker stop $(docker ps -q) & docker rm $(docker ps -aq) -- 停止加删除，测试时报错 ampersand符号&不识别
 
     | Name | Meaning |
     | --- | --- |
@@ -102,3 +105,8 @@ artifactory.swdc.saurer.com:443/docker/docker/lion-user-service
     | IMAGE ID | 表示镜像的id号 |
     | CREATED | 创建的时间 |
     | SIZE | 镜像的SIZE |
+
+## docker 实用命令
+
+    1. docker run -it -p 9910:80 -d <image name>
+    1. docker stop $(docker ps -q) & docker rm $(docker ps -aq)
