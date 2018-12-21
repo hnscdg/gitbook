@@ -12,7 +12,6 @@
 | ES6| [ES6](es6/README.md) |
 | Nodejs | [Nodejs](nodejs/README.md) |
 | Javascript | [Javascript](javascript/README.md) |
-| English | [English](english/README.md) |
 | C# | [C\#](c/README.md) |
 | Docker | [Docker](docker/README.md) |
 | Database | [Database](database/README.md) |
